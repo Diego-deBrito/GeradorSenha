@@ -26,7 +26,7 @@
 
 
  # Este método é responsável por gerar uma senha aleatória,
-// recebe um parâmetro 'tamanho' que determina o comprimento da senha a ser gerada.</a>
+# recebe um parâmetro 'tamanho' que determina o comprimento da senha a ser gerada.</a>
 
 ```
 public static String geradorSenhas(int tamanho){
